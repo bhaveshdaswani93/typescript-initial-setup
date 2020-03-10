@@ -1,0 +1,29 @@
+{
+  "name": "typescript-initial-setup",
+  "version": "1.0.0",
+  "description": "This project gives you the initial setup you need to follow along with my typescript series at https://geekycoders.net",
+  "main": "index.html",
+  "scripts": {
+    "test": "npx lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaveshdaswani93/typescript-initial-setup.git"
+  },
+  "keywords": [
+    "Typescript.",
+    "Typescript",
+    "initial",
+    "setup"
+  ],
+  "author": "bhavesh daswani (bhaveshdaswani93@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhaveshdaswani93/typescript-initial-setup/issues"
+  },
+  "homepage": "https://github.com/bhaveshdaswani93/typescript-initial-setup#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "typescript": "^3.8.3"
+  }
+}
